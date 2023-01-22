@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ch.pricemeier</groupId>
     <artifactId>unofficial-d2lang-maven-plugin</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>maven-plugin</packaging>
 
     <organization>
@@ -42,7 +42,7 @@
         <url>https://github.com/andrinmeier/unofficial-d2lang-maven-plugin</url>
         <connection>scm:git:https://github.com/andrinmeier/unofficial-d2lang-maven-plugin</connection>
         <developerConnection>scm:git:https://github.com/andrinmeier/unofficial-d2lang-maven-plugin</developerConnection>
-      <tag>HEAD</tag>
+      <tag>unofficial-d2lang-maven-plugin-1.0.2</tag>
   </scm>
 
     <properties>
