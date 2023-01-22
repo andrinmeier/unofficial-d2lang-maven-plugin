@@ -2,6 +2,7 @@
 .idea
 target
 release.properties
+pom.xml.releaseBackup
 
 # Compiled class file
 *.class
