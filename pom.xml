@@ -4,7 +4,7 @@
     <groupId>ch.pricemeier</groupId>
     <artifactId>unofficial-d2lang-maven-plugin</artifactId>
     <version>1.0.2-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>maven-plugin</packaging>
 
     <organization>
         <name>Andrin Meier</name>
