@@ -1,6 +1,7 @@
 # IDE
 .idea
 target
+release.properties
 
 # Compiled class file
 *.class

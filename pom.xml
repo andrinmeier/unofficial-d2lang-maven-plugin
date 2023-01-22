@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ch.pricemeier</groupId>
     <artifactId>unofficial-d2lang-maven-plugin</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <organization>
@@ -42,6 +42,8 @@
 
     <scm>
         <url>https://github.com/andrinmeier/unofficial-d2lang-maven-plugin</url>
+        <connection>scm:git:https://github.com/andrinmeier/unofficial-d2lang-maven-plugin</connection>
+        <developerConnection>scm:git:https://github.com/andrinmeier/unofficial-d2lang-maven-plugin</developerConnection>
     </scm>
 
     <properties>
@@ -149,7 +151,6 @@
                         </goals>
                         <configuration>
                             <keyname>${gpg.keyname}</keyname>
-                            <passphraseServerId>${gpg.keyname}</passphraseServerId>
                         </configuration>
                     </execution>
                 </executions>
